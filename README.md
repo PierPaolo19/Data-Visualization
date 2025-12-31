@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+This project is tested with BrowserStack.
 # Data-Visualization
 ## Collection of interactive Jupiter Notebook graphs and widgets <br>
 
@@ -52,3 +52,4 @@ Celluloid:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierpaolo28/
 [product-screenshot]: images/screenshot.png
+
