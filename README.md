@@ -6,7 +6,7 @@
 
 # Data-Visualization
 ## Collection of interactive Jupiter Notebook graphs and widgets <br>
-
+This project is tested with BrowserStack.
 This collection has been made possible thanks to: <br>
 
 [SamLau95](https://github.com/SamLau95/nbinteract/tree/master/notebooks) <br>
@@ -52,3 +52,4 @@ Celluloid:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierpaolo28/
 [product-screenshot]: images/screenshot.png
+
